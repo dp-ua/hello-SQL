@@ -17,4 +17,5 @@
 * /hello/contacts?nameFilter=""
 * /hello/add
 
-
+The filter uses regular expressions and if you get an error about forbidden characters - they need to be encoded.
+You can do this on this site: https://meyerweb.com/eric/tools/dencoder/
